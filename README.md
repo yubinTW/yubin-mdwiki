@@ -1,6 +1,14 @@
 README
 ======
 
+A static file markdown-base wiki.
+
+fork from [exalted/mdwiki-seed](https://github.com/exalted/mdwiki-seed)
+
+[demo](https://yubintw.github.io/yubin-mdwiki/ll_CC/#!index.md)
+
+
+
 First things first
 ------------------
 
