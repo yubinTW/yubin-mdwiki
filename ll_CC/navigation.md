@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Yubin-WIKI
 
 
 <!--
@@ -21,6 +21,10 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[手冊]()
+
+  * [廣告](pages/ad_readme.md)
+  * [粉專](pages/fb_readme.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
